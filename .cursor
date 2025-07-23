@@ -1,0 +1,26 @@
+{
+  "projectId": "ilos-hlf-2024",
+  "indexedPaths": [
+    "src/",
+    "contracts/",
+    "memory/",
+    "docs/",
+    "chaincode/"
+  ],
+  "excludedPaths": [
+    "node_modules/",
+    ".git/",
+    ".vscode/"
+  ],
+  "aiMemory": {
+    "lastUsed": "2024-07-23T12:00:00Z",
+    "contextSummary": "ILOS (Immutable Loan Origination System) on Hyperledger Fabric, multi-org, off-chain and on-chain data separation, full workflow and auditability."
+  },
+  "settings": {
+    "theme": "dark",
+    "autoSave": true,
+    "tabSize": 2,
+    "lineNumbers": true,
+    "codeLens": true
+  }
+} 
